@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Percobaan 5</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Muhammad Adlim Dzaky Pratama</item>
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Mahasiswa Semester 3 Di Universitas Tadulako Fakultas Teknik Program Studi Teknik Informatika Angkatan 2022. Stambuk F55122073</item>
+        <item>Salah seorang Ulama Besar bergelar Pahlawan Nasional Indonesia yang merupakan pendiri Muhammadiyah. Beliau adalah putra keempat dari tujuh bersaudara dari keluarga K.H. Abu Bakar. KH Abu Bakar adalah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta pada masa itu, dan ibu dari K.H. Ahmad Dahlan adalah putri dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta Hadiningrat pada masa itu.</item>
+        <item>Jenderal Besar TNI (Anumerta) Ahmad Yani (juga dieja A. Yani, Achmad Yani); (19 Juni 1922 – 1 Oktober 1965) adalah Menteri/Panglima Angkatan Darat (setingkat KSAD) yang merupakan salah satu Pahlawan Revolusi yang gugur sebagai korban tragedi Gerakan 30 September karena dibunuh dalam Gerakan 30 September saat penculikan dari rumahnya.</item>
+        <item>Sutomo (3 Oktober 1920 – 7 Oktober 1981) atau lebih dikenal dengan sapaan akrab Bung Tomo adalah pahlawan nasional Indonesia dan pemimpin militer Indonesia pada masa Revolusi Nasional Indonesia yang dikenal karena peranannya dalam Pertempuran 10 November 1945.</item>
+        <item>Jenderal TNI (HOR) Gatot Soebroto (10 Oktober 1907 – 11 Juni 1962) adalah tokoh perjuangan militer Indonesia dalam merebut kemerdekaan dan juga pahlawan nasional Indonesia. Ia dimakamkan di Ungaran, kabupaten Semarang.</item>
+        <item>Raden Mas Soewardi Soerjaningrat adalah bangsawan Jawa, aktivis pergerakan kemerdekaan Indonesia, guru bangsa, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda.</item>
+        <item>Dr. Drs. H. Mohammad Hatta adalah seorang tokoh penting dalam perjuangan kemerdekaan Indonesia, negarawan, dan ekonom Indonesia yang menjabat sebagai Wakil Presiden Indonesia pertama.</item>
+        <item>Jenderal Besar TNI Raden Soedirman adalah seorang perwira tinggi Indonesia pada masa Revolusi Nasional Indonesia. Sebagai Panglima Besar Tentara Nasional Indonesia pertama, ia adalah sosok yang dihormati di Indonesia.</item>
+        <item>Dr. Ir. H. Soekarno adalah Presiden pertama Republik Indonesia yang menjabat pada kurun waktu 1945–1967. Ia adalah seorang tokoh perjuangan yang berperan penting dalam memerdekakan bangsa Indonesia dari kolonialisme Belanda.</item>
+        <item>Prof. Dr. Mr. Soepomo adalah seorang politikus dan pengacara Indonesia yang menjabat sebagai Menteri Kehakiman pertama negara itu dari Agustus hingga November 1945 dan lagi dari Desember 1949 hingga 6 September 1950.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/adlim</item>
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+    </integer-array>
+</resources>
+

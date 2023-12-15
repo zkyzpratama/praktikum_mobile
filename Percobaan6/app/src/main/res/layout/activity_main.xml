@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBard_id"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:gravity="center">
+        
+        <ImageView
+            android:id="@+id/programmer_id"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/pro" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/viewpager_id" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:tabGravity="fill"
+        app:tabMode="fixed"
+        android:id="@+id/tab_layout_id"
+        app:tabTextColor="@color/white"
+        app:tabIndicatorColor="@color/white"
+        app:tabIndicatorGravity="top"
+        android:background="@color/chocolate" />
+
+</LinearLayout>
